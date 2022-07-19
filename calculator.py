@@ -1,3 +1,4 @@
+# CODE IS NOT COMPLETELY MADE BY ME. I DID A LOT OF RESEARCH TO REVIEW HOW TKINTER WORKS.
 import tkinter as tk
 from tkinter import *
 #-----------------------------#
